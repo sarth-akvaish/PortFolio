@@ -9,10 +9,7 @@ import Services from './components/services/Services';
 const App = () => {
   return (
     <div>
-      <section id='HomePage'>
-        <Navbar />
-        <Hero />
-      </section>
+      <section id='HomePage'><Navbar /><Hero /></section>
       <section id='Services'><Parallex type="Services" /></section>
       <section><Services /></section>
       <section id='PortFolio'><Parallex type="Portfolio" /></section>

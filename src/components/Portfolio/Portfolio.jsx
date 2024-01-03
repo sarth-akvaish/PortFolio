@@ -12,17 +12,17 @@ const items = [
     }, {
         id: 2,
         title: 'MERN App',
-        img: "https://unsplash.com/photos/a-large-waterfall-in-the-middle-of-a-forest-fV2cMKs1Aww",
+        img: "https://images.unsplash.com/photo-1703758435024-c91738662ab8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
         desc: "jakdnd avdkjava akdvkjanvdka akdvnkjdafj d vajddkjav advnka"
     }, {
         id: 3,
         title: 'React Health App',
-        img: "https://unsplash.com/photos/a-large-waterfall-in-the-middle-of-a-forest-fV2cMKs1Aww",
+        img: "https://images.unsplash.com/photo-1703758435024-c91738662ab8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
         desc: "jakdnd avdkjava akdvkjanvdka akdvnkjdafj d vajddkjav advnka"
     }, {
         id: 4,
         title: 'React Music App',
-        img: "https://unsplash.com/photos/a-large-waterfall-in-the-middle-of-a-forest-fV2cMKs1Aww",
+        img: "https://images.unsplash.com/photo-1703758435024-c91738662ab8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
         desc: "jakdnd avdkjava akdvkjanvdka akdvnkjdafj d vajddkjav advnka"
     },
 ]
